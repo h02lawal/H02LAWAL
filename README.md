@@ -1,6 +1,7 @@
 ## Hi there, I'm Hafiz Ayodeji Lawal 👋  
 
-I have a **Bachelor of Science** degree, with a focus on **Computer Science, Statistics, Mathematics, and Biology**.  
+I hold a Bachelor of Science (B.Sc.) degree from The University of Manitoba 🎓, where I focused on Computer Science, Statistics, Mathematics, and Biology. 
+
 I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate about **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**.  
 
 ---
@@ -50,6 +51,22 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 - **Primary Language:** Python 🐍 (Used for Data Science & AI Projects)  
 - **Other Languages:** C, C++, Java, HTML, CSS, JavaScript, PHP, SQL and C#(I've used this a little bit)  
 - **AI/ML Libraries & Tools:** TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib  
+
+---
+
+📊 **Data Science & AI Skills:**
+
+**Machine Learning** (Supervised & Unsupervised Learning)
+
+**Deep Learning** (CNN, RNN, Transformers, etc.)
+
+**Natural Language Processing** (NLP)
+
+**Feature Engineering & Model Optimization**
+
+**Data Visualization** (Matplotlib, Seaborn, Tableau)
+
+**Big Data & SQL Databases**
 
 ---
 

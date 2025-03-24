@@ -68,6 +68,8 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 
 **Big Data & SQL Databases**
 
+I leverage AI-assisted tools, such as **ChatGPT**, to break down complex problems and streamline debugging processes.
+
 ---
 
 ### **🤝 Collaboration & Interests:**  

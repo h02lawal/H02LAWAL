@@ -1,6 +1,6 @@
 ## Hi there, I'm Hafiz Ayodeji Lawal 👋  
 
-I hold a Bachelor of Science (B.Sc.) degree from The University of Manitoba 🎓, where I focused on Computer Science, Statistics, Mathematics, and Biology. 
+I hold a Bachelor of Science (B.Sc.) degree from The **University of Manitoba** 🎓, where I specialized in **Database Management** through my focus on Computer Science, Statistics, Mathematics, and Biology..
 
 I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate about **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**.  
 
@@ -19,6 +19,9 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 ---
 
 ### **📌 Projects I've Worked On:**  
+- 🌐 Full-Stack Web App with Live Server Integration
+  - Designed and developed a website connected to a live server.
+  -  Implemented backend functionality that updated the server in real time with user inputs, demonstrating practical experience in database management,server communication, and backend integration.
 - **🌦 Weather Prediction Model:**  
   - Used **37 features** from historical city data (1970–present) to predict the next day's **average temperature**.  
   - The model can be adjusted to predict multiple days ahead with minor modifications.  
@@ -68,15 +71,18 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 
 **Big Data & SQL Databases**
 
+**Database Management & Server Integration (e.g., building websites connected to live servers for real-time data updates)**
+
 I leverage AI-assisted tools, such as **ChatGPT**, to break down complex problems and streamline debugging processes.
 
 ---
 
 ### **🤝 Collaboration & Interests:**  
-I'm interested in collaborating on projects related to:  
-✅ **Data Analysis** – uncovering patterns in data  
-✅ **Predictive Modeling** – making data-driven forecasts  
-✅ **Machine Learning Applications** – solving real-world problems  
+'m interested in collaborating on projects related to:
+✅ Data Analysis – uncovering patterns in data
+✅ Predictive Modeling – making data-driven forecasts
+✅ Machine Learning Applications – solving real-world problems
+✅ Database Management – designing, implementing, and integrating databases with live applications 
 
 ---
 

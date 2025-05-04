@@ -1,6 +1,6 @@
 ## Hi there, I'm Hafiz Ayodeji Lawal 👋  
 
-I hold a Bachelor of Science (B.Sc.) degree from The **University of Manitoba** 🎓, where I specialized in **Database Management** through my focus on Computer Science, Statistics, Mathematics, and Biology..
+I hold a Bachelor of Science (B.Sc.) degree from The **University of Manitoba** 🎓, where I specialized in **Database Management** through my focus on Computer Science, Statistics, Mathematics, and Biology.
 
 I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate about **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**.  
 

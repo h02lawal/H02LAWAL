@@ -19,7 +19,7 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 ---
 
 ### **📌 Projects I've Worked On:**  
-- 🌐 Full-Stack Web App with Live Server Integration
+- **🌐 Full-Stack Web App with Live Server Integration**
   - Designed and developed a website connected to a live server.
   -  Implemented backend functionality that updated the server in real time with user inputs, demonstrating practical experience in database management,server communication, and backend integration.
 - **🌦 Weather Prediction Model:**  
@@ -78,10 +78,14 @@ I leverage AI-assisted tools, such as **ChatGPT**, to break down complex problem
 ---
 
 ### **🤝 Collaboration & Interests:**  
-'m interested in collaborating on projects related to:
+I'm interested in collaborating on projects related to:
+
 ✅ Data Analysis – uncovering patterns in data
+
 ✅ Predictive Modeling – making data-driven forecasts
+
 ✅ Machine Learning Applications – solving real-world problems
+
 ✅ Database Management – designing, implementing, and integrating databases with live applications 
 
 ---

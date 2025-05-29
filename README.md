@@ -59,7 +59,7 @@ I am also a **self-taught Data Scientist** and **AI enthusiast**, passionate abo
 
 📊 **Data Science & AI Skills:**
 
-**Machine Learning** (Supervised & Unsupervised Learning)
+**Machine Learning** (Supervised Learning, Unsupervised Learning & Reinforcement Learning)
 
 **Deep Learning** (CNN, RNN, Transformers, etc.)
 
